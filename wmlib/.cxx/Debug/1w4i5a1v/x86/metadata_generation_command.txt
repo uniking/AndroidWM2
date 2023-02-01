@@ -1,0 +1,18 @@
+                    -H/home/wzl/sources8ExtDisk/git/androidwm2/wmlib
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/wzl/company/uniking/android/android-sdk-linux/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/home/wzl/company/uniking/android/android-sdk-linux/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/home/wzl/company/uniking/android/android-sdk-linux/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/wzl/company/uniking/android/android-sdk-linux/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/build/intermediates/cxx/Debug/1w4i5a1v/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/build/intermediates/cxx/Debug/1w4i5a1v/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/x86
+-GNinja
+                    Build command args: []
+                    Version: 2

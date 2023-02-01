@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/wzl/company/uniking/android/android-sdk-linux/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/wzl/company/uniking/android/android-sdk-linux/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Watermark::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "Watermark",
+      "output": "/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/build/intermediates/cxx/Debug/1w4i5a1v/obj/x86_64/libWatermark.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/wzl/company/uniking/android/android-sdk-linux/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/wzl/company/uniking/android/android-sdk-linux/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

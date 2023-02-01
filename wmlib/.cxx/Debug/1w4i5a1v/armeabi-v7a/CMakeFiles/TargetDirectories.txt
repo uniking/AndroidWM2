@@ -1,0 +1,3 @@
+/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/wzl/sources8ExtDisk/git/androidwm2/wmlib/.cxx/Debug/1w4i5a1v/armeabi-v7a/CMakeFiles/Watermark.dir
